@@ -1,3 +1,3 @@
 # Home_Page_Aros_2024
- Home page atualizada de AROS_ARTEDIGITAL
+ Acesse o site pelo link abaixo:
  (https://arosartedigital.netlify.app/)
