@@ -1,2 +1,2 @@
- Acesse o site pelo link abaixo:
- (https://arosartedigital.netlify.app/)
+ Acesse o site pelo link:
+ https://arosartedigital.netlify.app
